@@ -1,3 +1,0 @@
-# JavaExcercises
-# JavaExcercises
-# JavaExcercises

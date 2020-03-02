@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6073f941-de25-46af-b52e-4cbcecca7aa0" name="Default Changelist" comment="" />
+    <list default="true" id="57d3a3dd-9441-44bd-900d-6f2a702c908d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="ErrorTreeViewConfiguration">
-    <option name="autoscrollToSource" value="true" />
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="JavaFXApplication" />
-        <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,29 +22,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1XXddjcK1AFbCLNjxD1CEVygnWp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
+  <component name="ProjectId" id="1XU3cXI8QulUPzfxP7GwVCi86Xc" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Kalkulator" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Bank">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AgregacjaIKompozycja.Bank" />
       <module name="JavaStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="AgregacjaIKompozycja.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,51 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.KalkulatorTest" />
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KlasyIObiekty.Company" />
       <module name="JavaStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Main" />
-      <module name="JavaStart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractTypes.Main2" />
-      <module name="JavaStart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractTypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypyAbstrakcyjne.Main" />
-      <module name="JavaStart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TypyAbstrakcyjne.*" />
+          <option name="PATTERN" value="KlasyIObiekty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,10 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Kalkulator" />
-        <item itemvalue="Application.KalkulatorTest" />
+        <item itemvalue="Application.Bank" />
+        <item itemvalue="Application.Company" />
       </list>
     </recent_temporary>
   </component>
@@ -135,32 +90,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6073f941-de25-46af-b52e-4cbcecca7aa0" name="Default Changelist" comment="" />
-      <created>1581196462567</created>
+      <changelist id="57d3a3dd-9441-44bd-900d-6f2a702c908d" name="Default Changelist" comment="" />
+      <created>1581086925683</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581196462567</updated>
-      <workItem from="1581196465545" duration="935000" />
-      <workItem from="1581270323695" duration="2562000" />
-      <workItem from="1581338454034" duration="4760000" />
-      <workItem from="1581440190474" duration="2462000" />
-      <workItem from="1581519651252" duration="7177000" />
-      <workItem from="1581592118067" duration="11480000" />
-      <workItem from="1581771591737" duration="14813000" />
-      <workItem from="1581950409083" duration="11190000" />
-      <workItem from="1582034420168" duration="12960000" />
-      <workItem from="1582125246942" duration="7885000" />
-      <workItem from="1582148867641" duration="299000" />
-      <workItem from="1582229528486" duration="4243000" />
-      <workItem from="1582301623721" duration="601000" />
-      <workItem from="1582368831760" duration="9731000" />
-      <workItem from="1582477584405" duration="10883000" />
-      <workItem from="1582574557212" duration="4839000" />
-      <workItem from="1582653363581" duration="14205000" />
-      <workItem from="1582698561218" duration="1281000" />
-      <workItem from="1582736130140" duration="10436000" />
-      <workItem from="1582834309728" duration="8869000" />
-      <workItem from="1583151089365" duration="2219000" />
+      <updated>1581086925683</updated>
+      <workItem from="1581086926962" duration="2895000" />
+      <workItem from="1581195914999" duration="237000" />
     </task>
     <servers />
   </component>
@@ -168,91 +104,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="179" key="#Project_Structure" timestamp="1581785806969">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583169080526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1581785806969" />
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1582840270813">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582840270813" />
-    <state x="599" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581526687907">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="599" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1581526687907" />
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582675271645">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582675271645" />
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1583165780676">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
-    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1583165780676">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
-    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1583165780676">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
-    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1583165780676">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582846229208">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229208" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582846229208">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229208" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582846229208">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229208" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582846229208">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229208" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1581785773467">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1581785773467" />
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583151190577">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583151190577" />
-    <state x="690" y="276" key="extract.method.dialog" timestamp="1582667747589">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="276" key="extract.method.dialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582667747589" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1582143314541">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582143314541" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1581525205822">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1581525205822" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582144077562">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582144077562" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Debugging/Cwiczenie.java</url>
-          <line>43</line>
-          <properties class="Debugging.Cwiczenie" method="reverseArray">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583169080526" />
   </component>
 </project>
