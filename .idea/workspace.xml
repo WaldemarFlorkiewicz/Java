@@ -36,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XXddjcK1AFbCLNjxD1CEVygnWp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,13 +55,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Kalkulator">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Wyjatki.Kalkulator" />
       <module name="JavaStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,7 +74,7 @@
       <module name="JavaStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main" />
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Main" />
       <module name="JavaStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypyAbstrakcyjne.Main2" />
+      <option name="MAIN_CLASS_NAME" value="AbstractTypes.Main2" />
       <module name="JavaStart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TypyAbstrakcyjne.*" />
+          <option name="PATTERN" value="AbstractTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Kalkulator" />
         <item itemvalue="Application.KalkulatorTest" />
       </list>
@@ -156,6 +160,7 @@
       <workItem from="1582698561218" duration="1281000" />
       <workItem from="1582736130140" duration="10436000" />
       <workItem from="1582834309728" duration="8869000" />
+      <workItem from="1583151089365" duration="2219000" />
     </task>
     <servers />
   </component>
@@ -179,22 +184,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582675271645" />
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1582846229210">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1583165780676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229210" />
-    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1582846229209">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1583165780676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229209" />
-    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1582846229209">
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1583165780676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229209" />
-    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1582846229209">
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1583165780676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582846229209" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583165780676" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582846229208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,9 +245,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Debugowanie/Cwiczenie.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Debugging/Cwiczenie.java</url>
           <line>43</line>
-          <properties class="Debugowanie.Cwiczenie" method="reverseArray">
+          <properties class="Debugging.Cwiczenie" method="reverseArray">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="17" />
