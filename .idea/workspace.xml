@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57d3a3dd-9441-44bd-900d-6f2a702c908d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="57d3a3dd-9441-44bd-900d-6f2a702c908d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InternalClasses/Excercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InternalClasses/Sortable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Credit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Credit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AgregacjaIKompozycja/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/KlasyIObiekty/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KlasyIObiekty/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/KlasyIObiekty/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KlasyIObiekty/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaStart.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -30,28 +44,22 @@
     </option>
   </component>
   <component name="ProjectId" id="1XU3cXI8QulUPzfxP7GwVCi86Xc" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Bank">
+  <component name="RunManager" selected="Application.Excercise">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgregacjaIKompozycja.Bank" />
       <module name="JavaStart" />
@@ -78,8 +86,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cwiczenie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Cwiczenie1" />
+      <module name="JavaStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Excercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InternalClasses.Excercise" />
+      <module name="JavaStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InternalClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excercise" />
+        <item itemvalue="Application.Cwiczenie1" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Company" />
       </list>
@@ -97,6 +133,9 @@
       <updated>1581086925683</updated>
       <workItem from="1581086926962" duration="2895000" />
       <workItem from="1581195914999" duration="237000" />
+      <workItem from="1583169073304" duration="294000" />
+      <workItem from="1583169636935" duration="651000" />
+      <workItem from="1583341366845" duration="2784000" />
     </task>
     <servers />
   </component>
@@ -104,9 +143,57 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583169080526">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1583169680363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583169080526" />
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583169680363" />
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583169259301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583169259301" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1583169365704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583169365704" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1583344152014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583344152014" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1583169314958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583169314958" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583341368290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583341368290" />
   </component>
 </project>
