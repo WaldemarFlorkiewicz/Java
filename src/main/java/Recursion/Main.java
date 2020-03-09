@@ -2,7 +2,7 @@ package Recursion;
 
 public class Main {
     public static void main(String[] args) {
-        int factorial = factorial(4);
+        int factorial = factorial(5);
         System.out.println(factorial);
     }
 
