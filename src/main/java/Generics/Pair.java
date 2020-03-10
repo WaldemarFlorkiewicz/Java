@@ -2,32 +2,27 @@ package Generics;
 
 public class Pair<T, V> {
 
-    private T girlName;
-    private V boyName;
+    private T t;
+    private V v;
 
-    public Pair(T girlName, V boyName) {
-        this.girlName = girlName;
-        this.boyName = boyName;
+    public Pair(T t, V v) {
+        this.t = t;
+        this.v = v;
     }
 
-    public T getGirlName() {
-        return girlName;
+    public T getT() {
+        return t;
     }
 
-    public void setGirlName(T girlName) {
-        this.girlName = girlName;
+    public void setT(T t) {
+        this.t = t;
     }
 
-    public V getBoyName() {
-        return boyName;
+    public V getV() {
+        return v;
     }
 
-    public void setBoyName(V boyName) {
-        this.boyName = boyName;
+    public void setV(V v) {
+        this.v = v;
     }
-
-    public void printPair(){
-        System.out.println(girlName  + " " + boyName);
-    }
-
 }
