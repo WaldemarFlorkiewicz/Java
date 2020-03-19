@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57d3a3dd-9441-44bd-900d-6f2a702c908d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/CompanyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Set/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Maps/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Maps/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Maps/CompanyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Maps/CompanyApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +154,7 @@
       <workItem from="1584306761086" duration="665000" />
       <workItem from="1584375526602" duration="4113000" />
       <workItem from="1584469067404" duration="2191000" />
-      <workItem from="1584637752749" duration="5223000" />
+      <workItem from="1584637752749" duration="5602000" />
     </task>
     <servers />
   </component>
@@ -260,11 +258,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Maps/Company.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Maps/CompanyApp.java</url>

@@ -15,7 +15,7 @@ public class CompanyApp {
         Company company = new Company();
 
         while (loop){
-            System.out.println("Choose one form 4 options: ");
+            System.out.println("Choose one from 4 options: ");
             System.out.println("1 - Add new employee.");
             System.out.println("2 - Find employee.");
             System.out.println("3 - Check how many employess are in Company.");
