@@ -15,11 +15,11 @@ public class CompanyApp {
         Company company = new Company();
 
         while (loop){
-            System.out.println("Wybierz jedna z 4 opcji programu: ");
-            System.out.println("1 - Dodaj nowego pracownika do firmy.");
-            System.out.println("2 - Wyszukaj pracownika na podstawie imienia i nazwiska.");
-            System.out.println("3 - pobierz ilosc pracownikow.");
-            System.out.println("4 - wyjdz z programu.");
+            System.out.println("Choose one form 4 options: ");
+            System.out.println("1 - Add new employee.");
+            System.out.println("2 - Find employee.");
+            System.out.println("3 - Check how many employess are in Company.");
+            System.out.println("4 - Exit.");
             try {
                 int choose = scanner.nextInt();
                 scanner.nextLine();
@@ -37,7 +37,7 @@ public class CompanyApp {
                         loop = false;
                 }
             }catch (InputMismatchException | IllegalArgumentException e){
-                System.err.println("Nie podano liczby lub wyrazu. Spruboj jeszcze raz !");
+                System.err.println("Try again !");
                 scanner.nextLine();
             }
 
