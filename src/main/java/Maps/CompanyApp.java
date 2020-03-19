@@ -36,7 +36,7 @@ public class CompanyApp {
                     case EXIT:
                         loop = false;
                 }
-            }catch (InputMismatchException | IllegalArgumentException e){
+            }catch (InputMismatchException | IllegalArgumentException | NullPointerException e){
                 System.err.println("Try again !");
                 scanner.nextLine();
             }
