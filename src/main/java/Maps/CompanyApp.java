@@ -38,7 +38,6 @@ public class CompanyApp {
                 }
             }catch (InputMismatchException | IllegalArgumentException | NullPointerException e){
                 System.err.println("Try again !");
-                scanner.nextLine();
             }
 
         }
